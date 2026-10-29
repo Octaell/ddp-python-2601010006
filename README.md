@@ -1,4 +1,3 @@
-Set-Content -Path "README.MD" -Encoding UTF8 -Value @'
 # 🐍 Latihan Dasar-Dasar Pemrograman — Pertemuan 6
 
 <div align="center">
@@ -119,6 +118,6 @@ ddp-python/
 ---
 
 <div align="center">
-  <sub>✨ Dibuat dengan semangat belajar untuk mata kuliah Dasar-Dasar Pemrograman</sub>
+  <sub>✨ Semangat SI membara </sub>
 </div>
-'@
+
